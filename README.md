@@ -1,7 +1,8 @@
 # Hi there, I'm Julius 👋
 
 🎓 **Student @ Christ University, Bangalore**  
-Currently pursuing BTech in Computer Science with a specialization in Artificial Intelligence & Machine Learning (2nd Year).
+Currently pursuing BTech in Computer Science (AIML) — 2nd Year  
+🎖️ Honours in Cyber Security
 
 ---
 
@@ -9,7 +10,7 @@ Currently pursuing BTech in Computer Science with a specialization in Artificial
 
 - Passionate about coding and tech!
 - Python enthusiast 🐍 (but also comfortable with C & Java)
-- Always eager to learn, build, and explore new things in AI/ML and software development.
+- Always eager to learn, build, and explore new things in AI/ML, software development, and cyber security.
 
 ---
 
@@ -25,6 +26,7 @@ Currently pursuing BTech in Computer Science with a specialization in Artificial
 
 - Advanced Python programming
 - AI/ML concepts & applications
+- Cyber Security principles & practices
 - Exploring data science and analytics
 
 ---
