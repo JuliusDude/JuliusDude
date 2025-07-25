@@ -34,9 +34,9 @@ Currently pursuing BTech in Computer Science (AIML) — 2nd Year
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-b-thomas-462ba3314)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://juliusdude.github.io/my-portfolio-web)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/julius_006)
-[![X (Twitter)](https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LOLgod4real)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue)](https://juliusdude.github.io/my-portfolio-web)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/julius_006)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-@LOLgod4real-blue)](https://x.com/LOLgod4real)
 
 
 ---
